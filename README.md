@@ -8,9 +8,12 @@ With a passion for crafting robust, scalable solutions in the Microsoft ecosyste
 
 **Proficient in:**
 **C# and .NET Core** for high-performance backends
-  **ASP.NET** for web APIs
-  **SQL Server** for data management
-  **Azure** for seamless cloud deployments and infrastructure
+
+**ASP.NET** for web APIs
+
+**SQL Server** for data management
+ 
+**Azure** for seamless cloud deployments and infrastructure
 
 Building practical implementations like RESTful APIs, serverless cloud apps, and optimized database designs to solve real-world challenges efficiently.
 
