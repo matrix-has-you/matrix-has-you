@@ -14,7 +14,5 @@ With a passion for crafting robust, scalable solutions in the Microsoft ecosyste
 
 This repository is the central hub for my evolving portfolio of Microsoft stack projects—featuring practical implementations like RESTful APIs, serverless cloud apps, and optimized database designs, each solving real-world challenges efficiently.
 
-> Explore, fork, and contribute to bend the code matrix.
-
 *The Matrix has you... but code sets you free.* 💊
 </div>
