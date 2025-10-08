@@ -15,6 +15,4 @@ With a passion for crafting robust, scalable solutions in the Microsoft ecosyste
 Building practical implementations like RESTful APIs, serverless cloud apps, and optimized database designs to solve real-world challenges efficiently.
 
 Legacy projects available at [andresant-ana](https://github.com/andresant-ana).
-
-*The Matrix has you... but code sets you free.*
 </div>
