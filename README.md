@@ -10,9 +10,11 @@ With a passion for crafting robust, scalable solutions in the Microsoft ecosyste
 **C# and .NET Core** for high-performance backends, 
 **ASP.NET** for web APIs, 
 **SQL Server** for data management and 
-**Azure** for seamless cloud deployments and infrastructure
+**Azure** for seamless cloud deployments and infrastructure.
 
 Building practical implementations like RESTful APIs, serverless cloud apps, and optimized database designs to solve real-world challenges efficiently.
 
-*The Matrix has you... but code sets you free.* 💊
+Legacy projects available at [andresant-ana](https://github.com/andresant-ana).
+
+*The Matrix has you... but code sets you free.*
 </div>
